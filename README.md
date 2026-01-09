@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi , i am vihaan kumar, student studying in CU<br>i am a ui ux designer <br>frontend developer <br>i can create stunning website <br>
+hi , i am vihaan kumar, studying in CU<br>i am a ui ux designer <br>frontend developer <br>i can create stunning website <br>
 
 
 ## 🌐 Socials:
